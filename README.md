@@ -7,7 +7,6 @@
 ChapterForge is a structured content rewriting pipeline that combines web scraping, text generation, review, and semantic storage to automate the creative rewriting of book chapters. The workflow includes multiple iterations with human feedback to simulate a reinforcement learning (RL)-like reward system for improving the quality of rewritten content.
 
 ---
-
 ## 🔧 Key Features
 
 - ✅ Scrapes chapter text from public domain sources like Wikisource.
